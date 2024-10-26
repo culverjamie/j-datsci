@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/jamie-culver-a924a12aa
+    - icon: github
+      text: Github
+      href: https://github.com/culverjamie/j-datsci.git
+
+---
+
+Data Science project portfolio. 
