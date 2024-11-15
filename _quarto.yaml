@@ -1,16 +1,16 @@
 project:
-type: website
+  type: website
 
 website:
-title: "dat303-blog"
-navbar:
+  title: "dat303-blog"
+  navbar:
     right:
-    - about.qmd
-    - icon: github
+      - about.qmd
+      - icon: github
         href: https://github.com/
-    - icon: twitter
+      - icon: twitter
         href: https://twitter.com
-format:
-html:
-    theme: cosmo
-    css: styles.css
+  format:
+    html:
+      theme: cosmo
+      css: styles.css
