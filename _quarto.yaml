@@ -2,7 +2,7 @@ project:
  type: website
  
 website:
- site-url: https://www.culverjamie/j-datsci.github.io
+ site-url: https://github.com/culverjamie/j-datsci.git
  title: "Data Science Blog"
  description: "DAT303 Final Project and Portfolio"
  navbar:
@@ -16,4 +16,3 @@ format:
  html:
    theme: cosmo
    css: styles.css
-   
