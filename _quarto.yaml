@@ -2,7 +2,7 @@ project:
  type: website
  
 website:
- site-url: https://github.com/culverjamie/j-datsci.git
+ site-url: culverjamie.github.io/j-datsci/
  title: "Data Science Blog"
  description: "DAT303 Final Project and Portfolio"
  navbar:
